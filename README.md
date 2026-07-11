@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a full-stack developer and DevOps engineer who takes projects from a blank repo to a production fleet, keeping every layer versioned, observable, and reproducible along the way. I currently work as **Director of Operations & 5X Developer at Atomiq India**, where I translate high-level project goals into clean, scalable, production-ready code. Alongside that, I'm pursuing a **B.Sc. in Computer Science** (2nd year) at **Dr. G.R. Damodaran College of Science**, building full-stack applications with Python and SQL while specializing in Kubernetes- and Terraform-driven system design.
+I'm a full-stack developer and DevOps engineer who takes projects from a blank repo to a production fleet, keeping every layer versioned, observable, and reproducible along the way. I currently work as **5X Developer at Atomiq India**, where I translate high-level project goals into clean, scalable, production-ready code. Alongside that, I'm pursuing a **B.Sc. in Computer Science** (2nd year) at **Dr. G.R. Damodaran College of Science**, building full-stack applications with Python and SQL while specializing in Kubernetes- and Terraform-driven system design.
 
 <br/>
 
@@ -48,20 +48,7 @@ I'm a full-stack developer and DevOps engineer who takes projects from a blank r
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-<br/>
 
-## Featured Projects
-
-All projects showcased within my portfolio site — live demo coming soon.
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Orbital**](https://github.com/karthikatomiq/karthik-mecha-portfolio) | Zero-downtime deployment orchestrator. GitOps-driven pipelines that ship containers to production while the planet sleeps. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
-| [**Sentinel**](https://github.com/karthikatomiq/karthik-mecha-portfolio) | Full-stack observability grid. Distributed tracing, log aggregation, and anomaly alerts before the pager ever screams. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) |
-| [**Neon-Commerce**](https://github.com/karthikatomiq/karthik-mecha-portfolio) | Headless commerce engine with edge-rendered storefronts. Sub-second loads, real-time inventory, zero jank at checkout. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| [**Hypervisor**](https://github.com/karthikatomiq/karthik-mecha-portfolio) | Infrastructure control plane. One dashboard to provision, scale, and destroy cloud fleets across regions with Terraform. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-<br/>
 
 ## GitHub Stats
 
